@@ -1,0 +1,332 @@
+[
+  {
+    "name": "а",
+    "isVowel": true,
+    "imageWord": "арбуз",
+    "exampleWords": [
+      "трактор",
+      "аллергия",
+      "алгебра"
+    ]
+  },
+  {
+    "name": "б",
+    "isVowel": false,
+    "imageWord": "банан",
+    "exampleWords": [
+      "борода",
+      "тембр",
+      "таблетка"
+    ]
+  },
+  {
+    "name": "в",
+    "isVowel": false,
+    "imageWord": "вино",
+    "exampleWords": [
+      "овал",
+      "вратарь",
+      "караван"
+    ]
+  },
+  {
+    "name": "г",
+    "isVowel": false,
+    "imageWord": "груша",
+    "exampleWords": [
+      "эпилог",
+      "дорога",
+      "алгебра"
+    ]
+  },
+  {
+    "name": "д",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "е",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "ё",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "ж",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "з",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "и",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "й",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "к",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "л",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "м",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "н",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "о",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "п",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "р",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "с",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "т",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "у",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "ф",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "х",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "ц",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "ч",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "ш",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "щ",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "ъ",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "ы",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "ь",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "э",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "ю",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "я",
+    "isVowel": false,
+    "imageWord": "дыня",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  }
+]
